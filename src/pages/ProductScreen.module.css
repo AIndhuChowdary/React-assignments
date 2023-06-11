@@ -1,0 +1,412 @@
+.imageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 430px;
+  object-fit: cover;
+}
+.bgChild {
+  border-radius: 30px 30px 0 0;
+  background-color: #fff;
+}
+.bg,
+.bgChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 412px;
+}
+.bgItem {
+  border-radius: 30px;
+  background-color: #000;
+  width: 200px;
+  height: 50px;
+}
+.bg1,
+.bgItem,
+.buyNow {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bg1 {
+  width: 200px;
+  height: 50px;
+}
+.buyNow {
+  line-height: 100%;
+  font-weight: 600;
+}
+.text {
+  top: 17px;
+  left: 69px;
+  width: 70px;
+  height: 16px;
+}
+.button,
+.icon,
+.text {
+  position: absolute;
+}
+.icon {
+  height: 35%;
+  width: 8.28%;
+  top: 32.5%;
+  right: 73.1%;
+  bottom: 32.5%;
+  left: 18.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button {
+  top: 336px;
+  left: 150px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.p,
+.totalPrice {
+  margin: 0;
+}
+.p {
+  font-size: 18px;
+  color: #000;
+}
+.totalPrice19800Container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 100%;
+}
+.price {
+  position: absolute;
+  top: 346px;
+  left: 25px;
+  width: 70px;
+  height: 29px;
+  font-size: 9px;
+  color: #aaa;
+}
+.getALittle,
+.text1,
+.title {
+  position: absolute;
+  width: 325px;
+  height: 46px;
+}
+.getALittle {
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  display: inline-block;
+}
+.text1,
+.title {
+  top: 39px;
+  left: 1px;
+}
+.title {
+  top: 0;
+  left: 0;
+  width: 93px;
+  height: 24px;
+  font-size: 16px;
+  color: #000;
+}
+.description {
+  position: absolute;
+  top: 219px;
+  left: 24px;
+  width: 326px;
+  height: 85px;
+  color: #666;
+}
+.xlChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+}
+.xl1 {
+  top: 10px;
+  left: 12px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.xl,
+.xl1,
+.xxl1 {
+  position: absolute;
+}
+.xl {
+  top: 0;
+  left: 165px;
+  width: 40px;
+  height: 40px;
+}
+.xxl1 {
+  top: 10px;
+  left: 7px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.xxl {
+  top: 0;
+  left: 220px;
+  width: 40px;
+  height: 40px;
+}
+.l,
+.l1,
+.xxl {
+  position: absolute;
+}
+.l1 {
+  top: 10px;
+  left: 16px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.l {
+  top: 0;
+  left: 110px;
+  width: 40px;
+  height: 40px;
+}
+.m1 {
+  top: 10px;
+  left: 13px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.m,
+.m1,
+.s1 {
+  position: absolute;
+}
+.m {
+  top: 0;
+  left: 55px;
+  width: 40px;
+  height: 40px;
+}
+.s1 {
+  top: 10px;
+  left: 15px;
+  line-height: 150%;
+  font-weight: 600;
+}
+.s,
+.size,
+.size1,
+.title1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.size,
+.size1,
+.title1 {
+  top: 36px;
+  left: 1px;
+  width: 260px;
+}
+.size,
+.title1 {
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 24px;
+  font-size: 16px;
+  color: #000;
+}
+.size {
+  top: 118px;
+  left: 24px;
+  width: 261px;
+  height: 76px;
+  font-size: 14px;
+  color: #888;
+}
+.avaliableInStok {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 150%;
+  font-weight: 600;
+}
+.piceRangeChild,
+.stok {
+  position: absolute;
+  top: 51px;
+  left: 234px;
+  width: 93px;
+  height: 17px;
+}
+.piceRangeChild {
+  top: 0;
+  left: 0;
+  border-radius: 30px;
+  background-color: #eee;
+  width: 70px;
+  height: 30px;
+}
+.div {
+  left: 14px;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  top: 5px;
+  line-height: 150%;
+  display: inline-block;
+  width: 6px;
+}
+.div1 {
+  left: 49px;
+  text-align: center;
+}
+.div2 {
+  left: 33px;
+}
+.piceRange {
+  position: absolute;
+  top: 10px;
+  left: 255px;
+  width: 70px;
+  height: 30px;
+  font-size: 14px;
+}
+.starIcon {
+  position: absolute;
+  height: 64.71%;
+  width: 48.45%;
+  top: 17.65%;
+  right: 51.55%;
+  bottom: 17.65%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.review1 {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  line-height: 150%;
+}
+.review {
+  position: absolute;
+  height: 22.67%;
+  width: 47.71%;
+  top: 77.33%;
+  right: 52.29%;
+  bottom: 0;
+  left: 0;
+}
+.rollerRabbit {
+  margin: 0;
+  font-weight: 600;
+}
+.vadoOdelleDress {
+  margin: 0;
+  font-size: 11px;
+  color: #666;
+}
+.rollerRabbitVadoContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 208%;
+}
+.title2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 121px;
+  height: 56px;
+  font-size: 18px;
+}
+.productMeta {
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  width: 327px;
+  height: 75px;
+  color: #000;
+}
+.productDetails {
+  position: absolute;
+  top: 400px;
+  left: 0;
+  width: 375px;
+  height: 412px;
+}
+.div3,
+.menuBarIcon {
+  position: absolute;
+  top: 44px;
+  left: 25px;
+  width: 325px;
+  height: 35px;
+}
+.div3 {
+  top: 2.73px;
+  left: 0;
+  display: inline-block;
+  width: 31.79px;
+  height: 19.13px;
+}
+.bibatteryHalfIcon,
+.faSolidwifiIcon {
+  position: absolute;
+  top: 6.38px;
+  left: 294.31px;
+  width: 13.63px;
+  height: 10.93px;
+  overflow: hidden;
+}
+.bibatteryHalfIcon {
+  top: 0;
+  left: 313.38px;
+  width: 23.62px;
+  height: 23.68px;
+}
+.mobileTab1,
+.mobileTab1Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 337px;
+  height: 23.68px;
+}
+.mobileTab1Wrapper {
+  top: 11px;
+  left: 20px;
+  font-size: 16.39px;
+  color: #000;
+  font-family: Roboto;
+}
+.productScreen {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 11px;
+  color: #fff;
+  font-family: Poppins;
+}
